@@ -53,3 +53,12 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
+  <br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=SurajSomkuwar9&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
