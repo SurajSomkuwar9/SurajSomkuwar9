@@ -1,6 +1,6 @@
 <h2 align="left">👋 Hi there! I'm Suraj Somkuwar, a passionate Webdev Enthusiast!</h2>
 <h3 align="left">💻 Always exploring, always coding, and always pushing the boundaries of what's possible on the web!</h3>
-<h3 align="left">Let's build something amazing together! 🚀</h3>
+<h3 align="left">🚀 Let's build something amazing together!</h3>
 
 ###
   
