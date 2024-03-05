@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Suraj Somkuwar and I'm a Webdev Enthusiast</h2>
+<h2 align="left">👋 Hi there! I'm Suraj Somkuwar, a passionate Webdev Enthusiast! 💻 Always exploring, always coding, and always pushing the boundaries of what's possible on the web! Let's build something amazing together! 🚀</h2>
 
 ###
 
