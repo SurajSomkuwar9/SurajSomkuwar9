@@ -44,3 +44,10 @@
 <img src="https://raw.githubusercontent.com/SurajSomkuwar9/SurajSomkuwar9/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1zfe232bq2tgxr4dy4v9ujbux&count={5})
+###
+
