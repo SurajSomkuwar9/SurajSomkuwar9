@@ -44,6 +44,10 @@
 ###
 <img src="https://raw.githubusercontent.com/SurajSomkuwar9/SurajSomkuwar9/output/snake.svg" alt="Snake animation" />
 
+
+
+
+<br clear="both">
 ###
 
 <div align="right">
