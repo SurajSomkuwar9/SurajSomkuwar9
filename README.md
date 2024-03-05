@@ -1,7 +1,7 @@
 <h2 align="left">👋 Hi there! I'm Suraj Somkuwar, a passionate Webdev Enthusiast!</h2>
 <h3 align="left">💻 Always exploring, always coding, and always pushing the boundaries of what's possible on the web!</h3>
 <h3 align="left">🚀 Let's build something amazing together!</h3>
-<br>
+<br/>
 
 ###
 <div align="center">
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-<br clear="both">
+<br clear="both"/>
 
 ###
 <img src="https://raw.githubusercontent.com/SurajSomkuwar9/SurajSomkuwar9/output/snake.svg" alt="Snake animation" />
