@@ -1,4 +1,9 @@
-<h2 align="left">👋 Hi there! I'm Suraj Somkuwar, a passionate Webdev Enthusiast!</h2>
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suraj+Somkuwar!;" />
+</h1>
+
+<h3 align="left">A passionate webdev enthusiast from India 🇮🇳</h3>
+
 <h3 align="left">💻 Always exploring, always coding, and always pushing the boundaries of what's possible on the web!</h3>
 <h3 align="left">🚀 Let's build something amazing together!</h3>
 <br/>
