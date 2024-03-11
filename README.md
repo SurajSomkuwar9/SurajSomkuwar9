@@ -6,9 +6,9 @@
 
 
 <br/>
-&nbsp;&nbsp; 💻 Always exploring, always coding, and always pushing the boundaries of what's possible on the web! 
+&nbsp;&nbsp;&nbsp;&nbsp; 💻 Always exploring, always coding, and always pushing the boundaries of what's possible on the web! 
 <br/><br/>
-&nbsp;&nbsp; 🚀 Let's build something amazing together!
+&nbsp;&nbsp;&nbsp;&nbsp; 🚀 Let's build something amazing together!
 <br/>
 
 ###
@@ -18,7 +18,7 @@
   <img src="https://streak-stats.demolab.com?user=SurajSomkuwar9&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
 <p align="right"> 
-        <img height="180" src="https://tenor.com/view/hello-gojo-satoru-gojo-satoru-gif-7810568014399403739.gif"/>
+        <img height="165" src="https://tenor.com/view/hello-gojo-satoru-gojo-satoru-gif-7810568014399403739.gif"/>
         &nbsp;
  </p>
 </div>
