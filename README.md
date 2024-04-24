@@ -37,21 +37,22 @@ A Passionate Webdev Enthusiast<br><br><br>
 
 
 
-<p align="left">
+
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; 🔭 I’m currently working on ... a dynamic e-commerce platform with Next.js, Tailwind CSS & ML for recommendations. Choosing a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stable backend stack.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp; 🌱 I’m currently learning ... advanced UI/UX techniques with Next.js to create more immersive web experiences.
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🤝 I’m looking to collaborate on ... developing open-source projects that combine machine learning and web development to solve &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; real-world problems.
+&nbsp;&nbsp;&nbsp;&nbsp; 🤝 I’m looking to collaborate on ... developing open-source projects that combine machine learning and web development to solve <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;real-world problems.
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp; 📫 How to reach me: ... Shoot me an email at work.surajsomkuwar9@gmail.com 
+
+&nbsp;&nbsp;&nbsp;&nbsp; 📫 How to reach me: ... Shoot me an email at
+ [work.surajsomkuwar9@gmail.com](mailto:work.surajsomkuwar9@gmail.com)
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp; ❤️ I love ... experimenting with new technologies and finding creative solutions to challenges in web development and AIML.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp; ⚡ Fun fact: ... i'm a dedicated gamer and once managed to break my arm attempting a hospital flick maneuver in a FPS game.
 <br><br>
-</p>
 
 
 
